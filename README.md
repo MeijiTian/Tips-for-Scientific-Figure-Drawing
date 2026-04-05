@@ -1,4 +1,4 @@
-## Tips for Scientific Figure Drawing
+# Tips for Scientific Figure Drawing
 
  I would like to share some practical experience I have gained from preparing figures for ML/CV conference and journal papers.
 
